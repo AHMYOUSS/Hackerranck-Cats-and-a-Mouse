@@ -1,0 +1,14 @@
+function catAndMouse(x, y, z) {
+
+var a = Math.abs(x-z) , b = Math.abs(y-z) , c
+if ( a > b ){
+    return c = "Cat B"}
+    else if (a < b ) {
+        return c= "Cat A"
+    } else {
+    
+        return c= "Mouse C"
+            }
+
+return c
+}
